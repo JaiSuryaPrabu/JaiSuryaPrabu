@@ -5,4 +5,4 @@
 
 - 💬 Ask me about **Python 🐍, Artificial Intelligence 🧠 , Machine Learning 🤖**
 
-- ⚡ Fun fact **Machine Learning 🧠 is a process of learning 📚 by machine 🤖, May be am a Machine too 🤖 **
+- ⚡ Fun fact **Machine Learning **🧠 ** is a process of learning **📚 ** by machine 🤖**,** May be am a Machine too 🤖 **
