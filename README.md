@@ -1,10 +1,8 @@
 <h1 align="center">Hello 👋, I'm Jaisurya</h1>
 <h3 align="center">A curiosity Learner</h3>
 
-- 🌱 I’m currently learning **Tensorflow , Pytorch**
+- 🌱 I’m currently learning **Tensorflow**
 
-- 💬 Ask me about **Python, Artificial Intelligence , Machine Learning**
+- 💬 Ask me about **Python 🐍, Artificial Intelligence 🧠 , Machine Learning 🤖**
 
-- 📫 How to reach me **jaisuryaprabakaran25204@gmail.com**
-
-- ⚡ Fun fact **I don't know anything**
+- ⚡ Fun fact **Machine Learning 🧠 is a process of learning 📚 by machine 🤖, May be am a Machine too 🤖 **
