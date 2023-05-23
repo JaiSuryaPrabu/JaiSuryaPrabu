@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Jaisurya</h1>
-<h3 align="center">futuristic tech Enthusiast</h3>
+<h1 align="center">Hello 👋, I'm Jaisurya 👨‍🚀</h1>
+<h3 align="center"> 🚀 Futuristic tech Enthusiast</h3>
 
 - 🌱 I’m currently learning **Deep Learning**
 
