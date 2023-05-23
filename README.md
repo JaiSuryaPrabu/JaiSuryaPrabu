@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Jaisurya</h1>
-<h3 align="center">A curiosity Learner</h3>
+<h3 align="center">ML Enthusiast</h3>
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Python 🐍, Artificial Intelligence 🧠 , Machine Learning 🤖**
 
