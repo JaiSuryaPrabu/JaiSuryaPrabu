@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Jaisurya</h1>
 <p align="center">
   <b>AI Agent Engineer | Full-Stack Developer | Open Source Contributor</b><br>
-  Building intelligent agents, scalable backends, and interactive UIs for the next-gen AI ecosystem.
+  <i>No Fluff, Just Action 🚀</i>
 </p>
 
 ---
@@ -9,8 +9,6 @@
 ### 🧠 About Me
 
 I am an AI-native developer focused on building end-to-end intelligent software — from core machine learning models to full-stack applications powered by agents. With a strong foundation in **PyTorch**, **FastAPI**, and **Next.js**, I aim to build modular, scalable, and community-driven solutions for the AI developer ecosystem.
-
-> My mission is to build solutions of production level apps powered by AI
 
 ---
 
@@ -49,13 +47,15 @@ I am an AI-native developer focused on building end-to-end intelligent software 
 ### 📂 Featured Projects
 
 - 🚧 **[Sign Language Communication App](https://github.com/JaiSuryaPrabu/sign-language-communication-app)** - AI web application that bridges communication between sign language and non-sign language speakers using AI-powered translation
-- 📦 **[Cut Out](https://github.com/JaiSuryaPrabu/cut-out)** - Image segmentation web app that allows users to upload an image, select a region of interest and generate a cutout image with the selected region.
+- 📦 **[Cut Out](https://github.com/JaiSuryaPrabu/cut-out)** - Image segmentation web app that allows users to upload an image, select a region of interest and generate a cutout image with the selected region
+- 🔯 **[Ultragrad](https://github.com/JaiSuryaPrabu/ultragrad)** - automatic gradient engine inspired from Andrej Karpathy's Micrograd
+- 🎹 **[Ultratypetest-cli](https://github.com/JaiSuryaPrabu/ultratypetest-cli)** - a tool to test your typing speed, built entirely in python
 
 ---
 
 ### 🌱 Upcoming Plans
 
-- 🤝 Open sourcing autogradient engine
+- 🤝 Building agentic framework in python from scratch aiming simplicity, modular and scalability
 
 ---
 
